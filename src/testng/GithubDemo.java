@@ -8,7 +8,7 @@ import org.testng.annotations.AfterTest;
 public class GithubDemo {
 	WebDriver driver;
   @Test
-  public void gitdemo() {
+  public void seleniumwithgit() {
   }
   @BeforeTest
   public void beforeTest() {
