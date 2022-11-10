@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-10T11:20:22 IST" name="Default suite" finished-at="2022-11-10T11:20:41 IST" duration-ms="18718">
+    <groups>
+    </groups>
+    <test started-at="2022-11-10T11:20:22 IST" name="Default test" finished-at="2022-11-10T11:20:41 IST" duration-ms="18718">
+      <class name="testng.TestNG_Descritpion">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:testng.TestNG_Descritpion@d9345cd]" started-at="2022-11-10T11:20:22 IST" name="beforeTest" finished-at="2022-11-10T11:20:24 IST" duration-ms="2294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="testCase_5()[pri:0, instance:testng.TestNG_Descritpion@d9345cd]" started-at="2022-11-10T11:20:24 IST" name="testCase_5" description="seleniumDev" finished-at="2022-11-10T11:20:27 IST" duration-ms="2644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase_5 -->
+        <test-method signature="testCase_1()[pri:1, instance:testng.TestNG_Descritpion@d9345cd]" started-at="2022-11-10T11:20:27 IST" name="testCase_1" description="Twitter" finished-at="2022-11-10T11:20:29 IST" duration-ms="1457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase_1 -->
+        <test-method signature="testCase_3()[pri:2, instance:testng.TestNG_Descritpion@d9345cd]" started-at="2022-11-10T11:20:29 IST" name="testCase_3" description="seleniumlearn" finished-at="2022-11-10T11:20:37 IST" duration-ms="8068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase_3 -->
+        <test-method signature="testCase_2()[pri:3, instance:testng.TestNG_Descritpion@d9345cd]" started-at="2022-11-10T11:20:37 IST" name="testCase_2" description="Google Search" finished-at="2022-11-10T11:20:40 IST" duration-ms="3175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase_2 -->
+        <test-method signature="testCase_4()[pri:4, instance:testng.TestNG_Descritpion@d9345cd]" started-at="2022-11-10T11:20:40 IST" name="testCase_4" description="facebook" finished-at="2022-11-10T11:20:41 IST" duration-ms="1018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase_4 -->
+      </class> <!-- testng.TestNG_Descritpion -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

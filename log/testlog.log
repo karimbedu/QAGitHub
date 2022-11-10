@@ -1,0 +1,20 @@
+2022-11-08 09:44:58,129 - Google Application -INFO - Launch the Chrome Browser
+2022-11-08 09:44:58,265 - Google Application -INFO - Browse window maximized
+2022-11-08 09:50:02,838 - Google Seaech -INFO - Launch the Chrome Browser
+2022-11-08 09:50:02,968 - Google Seaech -INFO - Browse window maximized
+2022-11-08 09:50:05,677 - Google Seaech -INFO - Enter the google url in browser
+2022-11-08 09:50:08,687 - Google Seaech -INFO - Wait for 3 Seconds
+2022-11-08 09:52:42,169 - Google Seaech -INFO - Launch the Chrome Browser
+2022-11-08 09:52:42,302 - Google Seaech -INFO - Browse window maximized
+2022-11-08 09:52:44,912 - Google Seaech -INFO - Enter the google url in browser
+2022-11-08 09:52:47,928 - Google Seaech -INFO - Wait for 3 Seconds
+2022-11-08 09:52:48,040 - Google Seaech -INFO - Hello Log4j enter in google search
+2022-11-08 09:52:49,969 - Google Seaech -INFO - Enter button pressed in keyborad
+2022-11-08 09:54:32,574 - Google Seaech -INFO - Launch the Chrome Browser
+2022-11-08 09:54:32,712 - Google Seaech -INFO - Browse window maximized
+2022-11-08 09:54:35,805 - Google Seaech -INFO - Enter the google url in browser
+2022-11-08 09:54:37,812 - Google Seaech -INFO - Wait for 2 Seconds
+2022-11-08 09:54:37,915 - Google Seaech -INFO - Hello Log4j enter in google search
+2022-11-08 09:54:39,538 - Google Seaech -INFO - Enter button pressed in keyborad
+2022-11-08 09:54:40,545 - Google Seaech -INFO - Wait for 1 Seconds
+2022-11-08 09:54:40,800 - Google Seaech -INFO - Browser window closed
